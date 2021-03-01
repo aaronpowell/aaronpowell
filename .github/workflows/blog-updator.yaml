@@ -15,3 +15,4 @@ jobs:
         with:
           feed-url: https://www.aaron-powell.com/index.xml
           readme-section: posts
+          branch: main
