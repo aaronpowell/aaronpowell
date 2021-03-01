@@ -5,9 +5,9 @@
 Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web development he’s seen it all, from browser wars, the rise of AJAX and the fall of 20 JavaScript frameworks (and that was just yesterday!). Always tinkering with something new he explores crazy ideas like writing your own implementation of numbers in .NET, creating IoC in JavaScript or implementing tic-tac-toe using git commits. When not sitting at a computer he can be found running while pushing his two kids in a pram.
 
 - 🔭 I’m currently working making the cloud easier to use
-- I frequently blog at [https://www.aaron-powell.com](https://www.aaron-powell.com)
-- I tweet things at [@slace](https://twitter.com/slace)
-- I live-code on [Twitch/NumberOneAaron](https://www.twitch.tv/numberoneaaron)
+- 📄 I frequently blog at [https://www.aaron-powell.com](https://www.aaron-powell.com)
+- 📣 I tweet things at [@slace](https://twitter.com/slace)
+- 📽 I live-code on [Twitch/NumberOneAaron](https://www.twitch.tv/numberoneaaron)
 - 😄 Pronouns: he/him
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronpowell)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronpowell&show_icons=true)
