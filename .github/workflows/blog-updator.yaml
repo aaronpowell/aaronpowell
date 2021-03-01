@@ -11,8 +11,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1.2.5
+      - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://www.aaron-powell.com/index.xml
           readme-section: posts
-          branch: main
