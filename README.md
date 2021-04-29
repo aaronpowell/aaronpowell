@@ -13,11 +13,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Tools to Make Remote Workshops Easier](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-04-29-tools-to-make-remote-workshops-easier&#x2F;)
+* [Making Auth Simpler for Static Web App APIs](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-03-30-making-auth-simpler-for-static-web-app-apis&#x2F;)
+* [GraphQL on Azure: Part 6 - Subscriptions With SignalR](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-03-15-graphql-on-azure-part-6-subscriptions-with-signalr&#x2F;)
+* [Your Open Source Project Needs a devcontainer - Here&#39;s Why](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-03-08-your-open-source-project-needs-a-dev-container-heres-why&#x2F;)
 * [Extending the GitHub CLI](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-01-22-extending-the-github-cli&#x2F;)
-* [Using Environments for Approval Workflows With GitHub Actions](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-01-11-using-environments-for-approval-workflows-with-github&#x2F;)
-* [2020 a Year in Review](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-01-04-2020-a-year-in-review&#x2F;)
-* [Simplifying Auth With Static Web Apps and React](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2020-12-21-simplifying-auth-with-static-web-apps-and-react&#x2F;)
-* [Leveling Up Online Presentations](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2020-12-15-leveling-up-online-presentations&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
