@@ -13,11 +13,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Using Auth0 With Static Web Apps](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-05-13-using-auth0-with-static-web-apps&#x2F;)
+* [Using Okta With Static Web Apps](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-05-13-using-okta-with-static-web-apps&#x2F;)
 * [Tools to Make Remote Workshops Easier](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-04-29-tools-to-make-remote-workshops-easier&#x2F;)
 * [Making Auth Simpler for Static Web App APIs](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-03-30-making-auth-simpler-for-static-web-app-apis&#x2F;)
 * [GraphQL on Azure: Part 6 - Subscriptions With SignalR](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-03-15-graphql-on-azure-part-6-subscriptions-with-signalr&#x2F;)
-* [Your Open Source Project Needs a devcontainer - Here&#39;s Why](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-03-08-your-open-source-project-needs-a-dev-container-heres-why&#x2F;)
-* [Extending the GitHub CLI](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-01-22-extending-the-github-cli&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
