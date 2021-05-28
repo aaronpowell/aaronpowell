@@ -13,11 +13,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Local Dev With CosmosDB and devcontainers](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-05-27-local-dev-with-cosmosdb-and-devcontainers&#x2F;)
 * [Leveling Up Static Web Apps With the CLI](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-05-25-leveling-up-static-web-apps-with-the-cli&#x2F;)
 * [Using Auth0 With Static Web Apps](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-05-13-using-auth0-with-static-web-apps&#x2F;)
 * [Using Okta With Static Web Apps](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-05-13-using-okta-with-static-web-apps&#x2F;)
 * [Tools to Make Remote Workshops Easier](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-04-29-tools-to-make-remote-workshops-easier&#x2F;)
-* [Making Auth Simpler for Static Web App APIs](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-03-30-making-auth-simpler-for-static-web-app-apis&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
