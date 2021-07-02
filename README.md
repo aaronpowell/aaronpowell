@@ -13,11 +13,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Calling Static Web Apps Authenticated API Endpoints](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-07-02-calling-static-web-apps-authenticated-endpoints&#x2F;)
 * [Blazor, TypeScript and Static Web Apps](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-06-24-blazor-typescript-and-static-web-apps&#x2F;)
 * [Supercharging a Web Devs Toolbox](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-06-03-supercharging-a-web-devs-toolbox&#x2F;)
 * [Local Dev With CosmosDB and devcontainers](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-05-27-local-dev-with-cosmosdb-and-devcontainers&#x2F;)
 * [Leveling Up Static Web Apps With the CLI](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-05-25-leveling-up-static-web-apps-with-the-cli&#x2F;)
-* [Using Auth0 With Static Web Apps](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-05-13-using-auth0-with-static-web-apps&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
