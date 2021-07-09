@@ -13,11 +13,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Controlling Serialisation of CosmosDB Bindings for Azure Functions](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-07-09-controlling-serialisation-of-cosmosdb-bindings-for-azure-functions&#x2F;)
 * [Learn About F# and Web Development](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-07-09-learn-about-fsharp-and-web-development&#x2F;)
 * [Creating Static Web Apps With F# and Fable](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-07-09-creating-static-web-apps-with-fsharp-and-fable&#x2F;)
 * [GraphQL on Azure: Part 7 - Server-side Authentication](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-07-05-graphql-on-azure-part-7-server-side-authentication&#x2F;)
 * [Calling Static Web Apps Authenticated API Endpoints](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-07-02-calling-static-web-apps-authenticated-endpoints&#x2F;)
-* [Blazor, TypeScript and Static Web Apps](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-06-24-blazor-typescript-and-static-web-apps&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
