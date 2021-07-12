@@ -13,7 +13,7 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
-* [Azure Functions CosmosDB Output Bindings and F#](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-07-11-functions-cosmosdb-output-bindings-and-fsharp&#x2F;)
+* [Azure Functions, F# and CosmosDB Output Bindings](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-07-11-functions-cosmosdb-output-bindings-and-fsharp&#x2F;)
 * [Controlling Serialisation of CosmosDB Bindings for Azure Functions](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-07-09-controlling-serialisation-of-cosmosdb-bindings-for-azure-functions&#x2F;)
 * [Learn About F# and Web Development](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-07-09-learn-about-fsharp-and-web-development&#x2F;)
 * [Creating Static Web Apps With F# and Fable](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-07-09-creating-static-web-apps-with-fsharp-and-fable&#x2F;)
