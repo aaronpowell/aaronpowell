@@ -13,11 +13,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Scaffolding Static Web Apps](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-11-16-scaffolding-static-web-apps&#x2F;)
 * [Keystone on Azure: Part 2 - Hosting](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-11-02-keystone-on-azure-part-2-hosting&#x2F;)
 * [Keystone on Azure: Part 1 - Local Dev](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-11-02-keystone-on-azure-part-1-local-dev&#x2F;)
 * [Host Strapi 3 on Azure](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-10-14-host-strapi-3-on-azure&#x2F;)
 * [ZSA Moonlander - One Month On](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-09-01-zsa-moonlander-one-month-on&#x2F;)
-* [Regenerate All CosmosDB Keys](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-08-31-regenerate-all-cosmosdb-keys&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
