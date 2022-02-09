@@ -13,11 +13,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [OpenAPI for JavaScript Azure Functions](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-02-08-openapi-for-javascript-azure-functions&#x2F;)
 * [httpstat.us - Now With .NET 6](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-01-17-httpstatus-now-with-net-6&#x2F;)
 * [1300km](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-01-12-1300km&#x2F;)
 * [2021 a Year in Review](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-01-11-2021-a-year-in-review&#x2F;)
 * [GraphQL on Azure: Part 8 - Logging](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-12-07-graphql-on-azure-part-8-logging&#x2F;)
-* [State of Serverless Panel at GraphQL Summit](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2021-11-16-state-of-serverless-panel-at-graphql-summit&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
