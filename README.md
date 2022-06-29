@@ -13,11 +13,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Deploy Azure Static Web Apps With Bicep](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-06-29-deploy-swa-with-bicep&#x2F;)
 * [Implementing a Token Store With APIM Authorizations](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-06-16-implementing-a-token-store-with-apim-authorizations&#x2F;)
 * [Breaking Down a Phishing Attempt](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-05-10-breaking-down-a-phishing-attempt&#x2F;)
 * [Learn GraphQL at NDC Melbourne](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-05-02-learn-graphql-at-ndc-melbourne&#x2F;)
 * [Accessing a Static Web Apps Url From GitHub Actions](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-04-08-accessing-a-swa-url-from-github-actions&#x2F;)
-* [The Ultimate Web Dev Environment](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-03-04-the-ultimate-web-dev-environment&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
