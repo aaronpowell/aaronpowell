@@ -13,11 +13,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Controlling Blazor Environments on Static Web Apps](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-07-22-controlling-blazor-environments-on-swa&#x2F;)
 * [Taking a SWA DevOps pipeline to the next level](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-07-20-taking-a-swa-devops-pipeline-to-the-next-level&#x2F;)
 * [Building a Smart Home - Part 1 Design](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-07-18-building-a-smart-home---part-1-design&#x2F;)
 * [Working With add-mask and GitHub Actions for dynamic secrets](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-07-14-working-with-add-mask-and-github-actions&#x2F;)
 * [Deploy Azure Static Web Apps With Bicep](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-06-29-deploy-swa-with-bicep&#x2F;)
-* [Implementing a Token Store With APIM Authorizations](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-06-16-implementing-a-token-store-with-apim-authorizations&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
