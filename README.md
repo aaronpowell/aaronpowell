@@ -13,11 +13,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Finding Resource Groups With No Resources](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-15-finding-resource-groups-with-no-resources&#x2F;)
 * [Fixing When SWA Pull Request Builds Can&#39;t Add Comments](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-09-fixing-when-swa-prs-cant-add-comments&#x2F;)
 * [Building a Smart Home - Part 2 Where to Start](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-07-26-building-a-smart-home---part-2-where-to-start&#x2F;)
 * [Controlling Blazor Environments on Static Web Apps](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-07-22-controlling-blazor-environments-on-swa&#x2F;)
 * [Taking a SWA DevOps pipeline to the next level](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-07-20-taking-a-swa-devops-pipeline-to-the-next-level&#x2F;)
-* [Building a Smart Home - Part 1 Design](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-07-18-building-a-smart-home---part-1-design&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
