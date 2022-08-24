@@ -13,8 +13,8 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Improved Local Dev With CosmosDB and devcontainers](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-24-improved-local-dev-with-cosmosdb-and-devcontainers&#x2F;)
 * [More Phishing Attempts](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-23-more-phishing-attempts&#x2F;)
-* [Improved Local Dev With CosmosDB and devcontainers](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-23-improved-local-dev-with-cosmosdb-and-devcontainers&#x2F;)
 * [Building a Smart Home - Part 3 &quot;Smart&quot; Appliances](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-18-building-a-smart-home---part-3-smart-appliances&#x2F;)
 * [Breaking Down Another Phishing Attempt](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-18-breaking-down-another-phishing-attempt&#x2F;)
 * [GraphQL on Azure: Part 10 - Synthetic GraphQL Custom Responses](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-17-graphql-on-azure-part-10-synthetic-graphql-custom-responses&#x2F;)
