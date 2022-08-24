@@ -14,10 +14,10 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 
 <!--START_SECTION:posts-->
 * [More Phishing Attempts](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-23-more-phishing-attempts&#x2F;)
+* [Improved Local Dev With CosmosDB and devcontainers](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-23-improved-local-dev-with-cosmosdb-and-devcontainers&#x2F;)
 * [Building a Smart Home - Part 3 &quot;Smart&quot; Appliances](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-18-building-a-smart-home---part-3-smart-appliances&#x2F;)
 * [Breaking Down Another Phishing Attempt](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-18-breaking-down-another-phishing-attempt&#x2F;)
 * [GraphQL on Azure: Part 10 - Synthetic GraphQL Custom Responses](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-17-graphql-on-azure-part-10-synthetic-graphql-custom-responses&#x2F;)
-* [GraphQL on Azure: Part 9 - REST to GraphQL](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-08-16-graphql-on-azure-part-9-rest-to-graphql&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
