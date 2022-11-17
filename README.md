@@ -7,7 +7,7 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 - 🔭 I’m currently working making the cloud easier to use
 - 📄 I frequently blog at [https://www.aaron-powell.com](https://www.aaron-powell.com)
 - 📣 I tweet things at [@slace](https://twitter.com/slace)
-- 📣 I toot things at <a rel="me" href="https://mastodon.social/@slace">@slace@mastodon.social</a>
+- 📣 I toot things at <a rel="me" href="https://mastodon.social/@slace">https://mastodon.social/@slace</a>
 - 📽 I live-code on [Twitch/NumberOneAaron](https://www.twitch.tv/numberoneaaron)
 - 😄 Pronouns: he/him
 
