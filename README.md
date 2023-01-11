@@ -14,11 +14,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Simplifying devcontainers With Features](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-01-11-simplifying-devcontainers-with-features&#x2F;)
 * [2022 a Year in Review](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-01-11-2022-a-year-in-review&#x2F;)
 * [Building a Smart Home - Part 6 Lighting](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-01-05-building-a-smart-home---part-6-lighting&#x2F;)
 * [Burnout](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-01-03-burnout&#x2F;)
 * [1500km](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-01-02-1500km&#x2F;)
-* [Building a Smart Home - Part 5 Bin Day](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2022-11-07-building-a-smart-home---part-5-bin-day&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
