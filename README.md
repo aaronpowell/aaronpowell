@@ -14,11 +14,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Building a Smart Home - Part 9 Door Locks](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-02-13-building-a-smart-home---part-9-door-locks&#x2F;)
 * [Building a Smart Home - Part 8 Motorised Blinds](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-02-03-building-a-smart-home---part-8-motorised-blinds&#x2F;)
 * [Building a Smart Home - Part 7 Motorised Gate](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-01-16-building-a-smart-home---part-7-motorised-gate&#x2F;)
 * [Simplifying devcontainers With Features](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-01-11-simplifying-devcontainers-with-features&#x2F;)
 * [2022 a Year in Review](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-01-11-2022-a-year-in-review&#x2F;)
-* [Building a Smart Home - Part 6 Lighting](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-01-05-building-a-smart-home---part-6-lighting&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
