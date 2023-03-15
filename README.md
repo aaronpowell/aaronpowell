@@ -14,11 +14,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [GraphQL on Azure: Part 14 - Using Data API builder with SWA and Blazor](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-03-16-graphql-on-azure-part-14-using-dab-with-swa-and-blazor&#x2F;)
+* [GraphQL on Azure: Part 13 - Using Data API builder with SWA and React](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-03-16-graphql-on-azure-part-13-using-dab-with-swa-and-react&#x2F;)
+* [GraphQL on Azure: Part 12 - GraphQL as a Service](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-03-16-graphql-on-azure-part-12-graphql-as-a-service&#x2F;)
 * [Building a Smart Home - Part 10 Debugging!](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-03-01-building-a-smart-home---part-10-debugging&#x2F;)
 * [Building a Smart Home - Part 9 Door Locks](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-02-13-building-a-smart-home---part-9-door-locks&#x2F;)
-* [Building a Smart Home - Part 8 Motorised Blinds](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-02-03-building-a-smart-home---part-8-motorised-blinds&#x2F;)
-* [Building a Smart Home - Part 7 Motorised Gate](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-01-16-building-a-smart-home---part-7-motorised-gate&#x2F;)
-* [Simplifying devcontainers With Features](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-01-11-simplifying-devcontainers-with-features&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
