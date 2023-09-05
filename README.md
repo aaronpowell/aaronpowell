@@ -14,11 +14,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Generative AI and .NET - Part 2 SDK](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-09-04-generative-ai-and-dotnet---part-2-sdk&#x2F;)
 * [Generative AI and .NET - Part 1 Intro](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-09-01-generative-ai-and-dotnet---part-1-intro&#x2F;)
 * [Building a Smart Home - Part 13 Wall Mounted Dashboards](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-08-19-building-a-smart-home---part-13-wall-mounted-dashboards&#x2F;)
 * [Building a Smart Home - Part 12 NAS and Backups](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-06-22-building-a-smart-home---part-12-nas-and-backups&#x2F;)
 * [Building a Smart Home - Part 11 House Sitter Mode](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-04-27-building-a-smart-home---part-11-house-sitter-mode&#x2F;)
-* [GraphQL on Azure: Part 14 - Using Data API builder with SWA and Blazor](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-03-16-graphql-on-azure-part-14-using-dab-with-swa-and-blazor&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
