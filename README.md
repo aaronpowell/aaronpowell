@@ -14,11 +14,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Oh Look a Phishing Attempt](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-09-20-oh-look-a-phishing-attempt&#x2F;)
 * [Generative AI and .NET - Part 3 Chat Completions](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-09-07-generative-ai-and-dotnet---part-3-chat-completions&#x2F;)
 * [Generative AI and .NET - Part 2 SDK](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-09-04-generative-ai-and-dotnet---part-2-sdk&#x2F;)
 * [Generative AI and .NET - Part 1 Intro](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-09-01-generative-ai-and-dotnet---part-1-intro&#x2F;)
 * [Building a Smart Home - Part 13 Wall Mounted Dashboards](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-08-19-building-a-smart-home---part-13-wall-mounted-dashboards&#x2F;)
-* [Building a Smart Home - Part 12 NAS and Backups](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-06-22-building-a-smart-home---part-12-nas-and-backups&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
