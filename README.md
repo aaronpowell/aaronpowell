@@ -14,11 +14,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Generative AI for .NET - Part 5 Streaming](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-10-29-generative-ai-for-dotnet---part-5-streaming&#x2F;)
 * [Generative AI and .NET - Part 4 Images](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-10-06-generative-ai-and-dotnet---part-4-images&#x2F;)
 * [Oh Look a Phishing Attempt](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-09-20-oh-look-a-phishing-attempt&#x2F;)
 * [Generative AI and .NET - Part 3 Chat Completions](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-09-07-generative-ai-and-dotnet---part-3-chat-completions&#x2F;)
 * [Generative AI and .NET - Part 2 SDK](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-09-04-generative-ai-and-dotnet---part-2-sdk&#x2F;)
-* [Generative AI and .NET - Part 1 Intro](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2023-09-01-generative-ai-and-dotnet---part-1-intro&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
