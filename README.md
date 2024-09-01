@@ -14,11 +14,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Building a Smart Home - Part 16 Seasonal Automation&#39;s](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2024-09-01-building-a-smart-home---part-16-seasonal-automations&#x2F;)
 * [Building a Smart Home - Part 15 Generative AI and Notifications](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2024-08-13-building-a-smart-home---part-15-genai-and-notifications&#x2F;)
 * [Azure PostgreSQL, Entra ID Authentication and .NET](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2024-06-03-azure-postgresql-and-entra-id-dotnet&#x2F;)
 * [Exploring OpenAI With Aspire Preview 3](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2024-02-22-exploring-openai-with-aspire-preview-3&#x2F;)
 * [Persisting Data Volumes With .NET Aspire](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2024-01-23-persisting-data-volumes-with-dotnet-aspire&#x2F;)
-* [2023 a Year in Review](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2024-01-09-2023-a-year-in-review&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
