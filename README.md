@@ -14,11 +14,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Adding GitHub Copilot to the Windows Explorer Context Menu](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-05-13-adding-github-copilot-to-the-windows-explorer-context-menu&#x2F;)
+* [2025 a Year in Review](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-02-09-2025-a-year-in-review&#x2F;)
+* [Managing The Aspire Community Toolkit With AI](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2025-12-09-managing-oss-with-ai&#x2F;)
+* [Reviving My Blog With AI](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2025-12-03-reviving-my-blog-with-ai&#x2F;)
 * [1503km](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2025-01-13-1503km&#x2F;)
-* [2024 a Year in Review](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2025-01-09-2024-a-year-in-review&#x2F;)
-* [Building a Smart Home - Part 16 Seasonal Automation&#39;s](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2024-09-01-building-a-smart-home---part-16-seasonal-automations&#x2F;)
-* [Building a Smart Home - Part 15 Generative AI and Notifications](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2024-08-13-building-a-smart-home---part-15-genai-and-notifications&#x2F;)
-* [Azure PostgreSQL, Entra ID Authentication and .NET](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2024-06-03-azure-postgresql-and-entra-id-dotnet&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
