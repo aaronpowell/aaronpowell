@@ -14,11 +14,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Reviving the Tessel 2 - The Boards in the Drawer](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-07-31-reviving-the-tessel-2-the-boards-in-the-drawer&#x2F;)
 * [Switching the Aspire Community Toolkit to NuGet Trusted Publishing](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-07-03-switching-aspire-to-nuget-trusted-publishing&#x2F;)
 * [Distributed Test Runs in the Aspire Community Toolkit](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-06-18-distributed-test-runs-aspire&#x2F;)
 * [Automating Intakes to the Awesome Copilot Marketplace](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-05-25-automating-intakes-to-the-awesome-copilot-marketplace&#x2F;)
 * [Adding GitHub Copilot to the Windows Explorer Context Menu](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-05-13-adding-github-copilot-to-the-windows-explorer-context-menu&#x2F;)
-* [2025 a Year in Review](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-02-09-2025-a-year-in-review&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
