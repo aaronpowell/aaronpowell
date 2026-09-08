@@ -14,11 +14,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Reviving the Tessel 2 - The Middle Rungs](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-09-08-reviving-the-tessel-2-the-middle-rungs&#x2F;)
 * [Reviving the Tessel 2 - The First Rung](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-08-24-reviving-the-tessel-2-the-first-rung&#x2F;)
 * [Reviving the Tessel 2 - The Big Bang That Failed](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-08-17-reviving-the-tessel-2-the-big-bang-that-failed&#x2F;)
 * [Reviving the Tessel 2 - Should You Even Upgrade?](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-08-12-reviving-the-tessel-2-why-upgrade&#x2F;)
 * [Reviving the Tessel 2 - Getting the Old Tooling to Run Again](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-08-06-reviving-the-tessel-2-modern-toolchain&#x2F;)
-* [Reviving the Tessel 2 - Archaeology](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-08-03-reviving-the-tessel-2-archaeology&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
