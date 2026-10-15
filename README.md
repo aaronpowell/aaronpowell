@@ -14,11 +14,11 @@ Aaron is a Developer Advocate at Microsoft. Having spent 15 years doing web deve
 ## Recent blogs
 
 <!--START_SECTION:posts-->
+* [Triaging Dependabot With a Copilot Canvas](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-10-15-triaging-dependabot-with-a-copilot-canvas&#x2F;)
 * [Upgrading My Keyboard With a Trackball](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-09-10-upgrading-my-keyboard-with-a-trackball&#x2F;)
 * [Reviving the Tessel 2 - The Middle Rungs](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-09-08-reviving-the-tessel-2-the-middle-rungs&#x2F;)
 * [Reviving the Tessel 2 - The First Rung](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-08-24-reviving-the-tessel-2-the-first-rung&#x2F;)
 * [Reviving the Tessel 2 - The Big Bang That Failed](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-08-17-reviving-the-tessel-2-the-big-bang-that-failed&#x2F;)
-* [Reviving the Tessel 2 - Should You Even Upgrade?](https:&#x2F;&#x2F;www.aaron-powell.com&#x2F;posts&#x2F;2026-08-12-reviving-the-tessel-2-why-upgrade&#x2F;)
 <!--END_SECTION:posts-->
 
 ## Places to find me
